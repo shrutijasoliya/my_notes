@@ -1,2 +1,3 @@
 Video : https://www.youtube.com/watch?v=ejVPtJF3x7s
 Command : appcenter codepush release-react -a [User_name/ Organization_name on appcenter]/[App_name on appcenter] -d [Environment] --target-binary-version '[version_code]'
+
